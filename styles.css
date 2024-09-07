@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+  }
+  aside{
+    width: 50%;
+    padding-left: 0.5rem;
+    margin-left: 0.5rem;
+    
+    box-shadow: inset 5px 0 5px -5px #1277aa;
+    font-style: italic;
+    color:  #29627e;
+    background-color: rgb(163, 161, 161);
+  }
+  h1{
+    color: rgb(0, 0, 255);
+  }
+ #zx{
+    font-style: italic;
+
+ }
+ .navbar{
+    padding: 3px 3px;
+    text-decoration: none;
+    overflow: auto;
+    margin: 1px 20px;
+
+ }
+#class{
+    margin: 13px 25px;
+  }
+
+.Pic {
+  width: 150px;
+  height: 150px;
+}
+.Ok{
+    text-align: center;
+    padding: 5px;
+    background-color: #abbaba;
+    color: #000;
+  
+}
